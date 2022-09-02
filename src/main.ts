@@ -5,6 +5,7 @@ import { setupStore } from './store'
 import 'normalize.css'
 import NutUI from '@nutui/nutui'
 import '@nutui/nutui/dist/style.css'
+import '@/assets/style/index.scss'
 
 import App from './App.vue'
 
